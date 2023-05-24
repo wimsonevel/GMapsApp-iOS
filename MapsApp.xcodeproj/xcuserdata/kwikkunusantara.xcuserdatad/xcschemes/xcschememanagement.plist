@@ -7,7 +7,25 @@
 		<key>MapsApp.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0B353B112A1A6361003816C3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0B353B272A1A6364003816C3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0B353B312A1A6364003816C3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

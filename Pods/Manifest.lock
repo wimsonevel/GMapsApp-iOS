@@ -1,0 +1,20 @@
+PODS:
+  - GoogleMaps (3.7.0):
+    - GoogleMaps/Maps (= 3.7.0)
+  - GoogleMaps/Base (3.7.0)
+  - GoogleMaps/Maps (3.7.0):
+    - GoogleMaps/Base
+
+DEPENDENCIES:
+  - GoogleMaps (~> 3.7.0)
+
+SPEC REPOS:
+  trunk:
+    - GoogleMaps
+
+SPEC CHECKSUMS:
+  GoogleMaps: 55da829c68aa931f3ae982b9e341cc2f3d89c587
+
+PODFILE CHECKSUM: 735edd1347de2eb461ff8d0a7d4de729ec9b628a
+
+COCOAPODS: 1.12.1
